@@ -1,4 +1,3 @@
-
 # Exercise 01 - CSS Methods
 
 This exercise is about practicing the three different ways to apply CSS to HTML:
